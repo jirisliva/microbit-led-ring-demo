@@ -1,5 +1,5 @@
 {
-    "name": "microbit-led-ring-demo",
+    "name": "microbit-neopixel-demo",
     "description": "",
     "dependencies": {
         "core": "*",
